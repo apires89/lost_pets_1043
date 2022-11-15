@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  address: MyString
+  species: MyString
+  found: 2022-11-15
+  name: MyString
+
+two:
+  address: MyString
+  species: MyString
+  found: 2022-11-15
+  name: MyString
